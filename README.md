@@ -6,7 +6,7 @@
 ## Installation
 
 ```
-apt upgrade && apt update
+apt update && apt upgrade
 git clone https://github.com/i-djaini/HBO-GO
 cd HBO-GO
 pip install -r bahan.txt

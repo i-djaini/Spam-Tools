@@ -1,5 +1,4 @@
 requests
-random
 colorama
 beautifulsoup4
 schedule

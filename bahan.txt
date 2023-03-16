@@ -8,3 +8,4 @@ getpass
 beautifulsoup4
 schedule
 bs4
+rich

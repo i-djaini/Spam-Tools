@@ -1,8 +1,6 @@
 requests
-time
 random
 colorama
-getpass
 beautifulsoup4
 schedule
 bs4

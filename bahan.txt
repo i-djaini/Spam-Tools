@@ -1,0 +1,10 @@
+requests
+json
+os
+time
+random
+colorama
+getpass
+beautifulsoup4
+schedule
+bs4

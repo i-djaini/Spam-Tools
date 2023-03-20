@@ -16,10 +16,13 @@ $ python main.py
 ```
 
 ## Screenshots
+![Screenshot_20230320_095043_Termux](https://user-images.githubusercontent.com/126430995/226228994-7068f9fe-56b4-4f05-be37-5237b89acb2a.jpg)
 
-![WhatsApp Image 2023-03-15 at 17 45 22](https://user-images.githubusercontent.com/126430995/225272038-08348b94-b010-4988-836c-f35ab49a84ae.jpeg)
+![Screenshot_20230320_095100_Termux](https://user-images.githubusercontent.com/126430995/226229012-958b9c8a-b433-4fbc-9677-0cdbfc8ebaa0.jpg)
 
-![pesan](https://user-images.githubusercontent.com/126430995/225272051-6995503a-5695-4f3b-bf47-01891876eb73.jpeg)
+![Screenshot_20230320_095119_Termux](https://user-images.githubusercontent.com/126430995/226229028-6a2528f9-2fa8-4c5b-b995-4c4bfd12ae14.jpg)
+
+![Screenshot_20230320_095153_Termux](https://user-images.githubusercontent.com/126430995/226229045-5e64be7a-e4ea-48d6-a2c6-df0b68846ba0.jpg)
 
 ## Authors
 
